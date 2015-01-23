@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project Raymond.iml" filepath="$PROJECT_DIR$/Project Raymond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ray-core/ray-core.iml" filepath="$PROJECT_DIR$/ray-core/ray-core.iml" />
     </modules>
   </component>
 </project>
